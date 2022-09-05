@@ -2,13 +2,6 @@
 
 ## [Demo Link](https://dopefolio.netlify.app) 🔗
 
-<br/>
-<br/>
-
----
-
-<br/>
-
 ## Technologies used 🛠️
 
 - **HTML** 🚀
@@ -16,9 +9,6 @@
 - **JavaScript** 🚀
 - **SASS** 🚀
 
----
-
-<br/>
 
 ## How To Use 🔧
 
@@ -26,13 +16,7 @@ From your command line, first clone Dopefolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/rammcodes/dopefolio
-
-# Go into the repository
-$ cd dopefolio
-
-# Remove current origin repository
-$ git remote remove origin
+$ git clone https://github.com/Knight-Night-666/Portfolio
 ```
 
 <br/>
@@ -51,10 +35,5 @@ $ npm run compile:scss
 
 Once you run `npm run compile:scss`, then open the `index.html` inside your favorite browser or using the live server extension.
 
-<br>
-
----
-
-<br>
 
 
